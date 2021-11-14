@@ -1,0 +1,2 @@
+rootProject.name = "CA question2"
+include ':app'
